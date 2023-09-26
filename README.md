@@ -25,3 +25,14 @@
 - Criando Pos-tagging
 - Entidades Nomeadas
 - Lemmatiztion
+
+  
+
+### ◾ Módulo 3: *Transformers, BERT e GPTs*
+
+- HuggingFace e OpenAI
+- Perguntas e Respostas
+- Preenchimento de Lacunas
+- Resumo de textos
+- Geração de Textos
+- NLP com GPT
