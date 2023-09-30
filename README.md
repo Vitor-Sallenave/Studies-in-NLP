@@ -35,4 +35,4 @@
 - Preenchimento de Lacunas
 - Resumo de textos
 - Geração de Textos
-- NLP com GPT
+- Tradução de textos
