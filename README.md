@@ -1,56 +1,69 @@
-## ***📖⚙️ Formação em Natural Language Processing***
+# ***⚙️🤖 Studies in Natural Language Processing (NLP)***
 
 <br>
 
-### ◾ Módulo 1: *NLP com Spacy*
+## ◾ Module 1: *NLP with Spacy*
 
-- Produção de Tokens
-- Pos-tagging e Dependências
-- Reconhecimento de Entidades Nomeadas (REN)
-- Gerenciando Stopwords
-- Manipulando um Vocabulário
-- Buscando Similaridade
-- Buscando Expressões com Matching
-- Visualização com Displacy
-- Gerenciando Pipelines
+- Tokenization
+- Pos-tagging e Dependencies
+- Named Entity Recognition (NER)
+- Managing Stopwords
+- Creating a Vocabulary
+- Searching for similarity
+- Expressions Matching
+- Displacy Visualization
+- Working with Pipelines
 
-### ◾ Módulo 2: *NLP com NLTK*
+<br>
 
-- Produção de Tokens
-- Gerenciamento de Stopwords e Pontuação
+## ◾ Module 2: *NLP with NLTK*
+
+- Tokenization
+- Managing Stopwords and Punctuation
 - Stemming
-- Produzindo Métricas   
-- Criando Pos-tagging
-- Reconhecimento de Entidades Nomeadas
-- Lemmatiztion
+- Metrics   
+- Costumized Pos-tagging
+- NER
+- Lemmatization
 
-### ◾ Módulo 3: *Machine Learning e Deep Learning para NLP*
+<br>
 
-- Implementando Redes Neurais (Keras e TensorFlow)
-- Classificação de Spam (Redes Neurais)
-- Criando Embeddings com RNs
+## ◾ Module 3: *Machine Learning and Deep Learning in NLP*
 
-### ◾ Módulo 4: *Análise de Sentimentos*
+- Implementing Neural Networks (Keras and TensorFlow)
+- Spam Classification (NN)
+- Creating Embeddings with NNs
 
-- Modelo LSTM
-- VADER: Análise de Sentimentos Regrada
-- Comparação: Modelo com Regras x Supervisionado
+<br>
 
-### ◾ Módulo 5: *Transformers, BERT e GPTs*
+## ◾ Module 4: *Sentiment Analysis*
 
-- HuggingFace e OpenAI
-- Perguntas e Respostas
-- Preenchimento de Lacunas
-- Resumo de Textos
-- Geração de Textos
-- Tradução de Textos
+- LSTM: Supervised model
+- VADER: Regulated model
+- Comparison: LSTM x VADER
 
-### ◾ Módulo 6: *Modelagem de tópicos com BERT - BERTopic*
+<br>
 
-- Processamento de Dados
-- Principais Hiperparâmetros
+## ◾ Module 5: *Transformers, BERT and GPTs*
 
-### ◾ Módulo 7: *NLP com Spark*
+- HuggingFace and OpenAI
+- Question Answering
+- Fill-mask
+- Summarization
+- Text Generation
+- Text Translation
 
-- Pré-Processamento
-- Criando e Avaliando o Modelo
+<br>
+
+## ◾ Module 6: *Topics Modeling with BERT - BERTopic*
+
+- Data Processing
+- Main Hyperparameters
+
+<br>
+
+## ◾ Module 7: *NLP with Spark*
+
+- Working on the Databricks Environment
+- Data Pre-processing
+- Training and Evaluating the model
